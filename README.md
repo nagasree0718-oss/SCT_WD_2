@@ -1,4 +1,4 @@
-# AI Smart Calculator
+# Smart Calculator
 
 ## SkillCraft Technology - Web Development Internship
 
@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-AI Smart Calculator is a modern and responsive calculator web application developed as part of the SkillCraft Technology Web Development Internship Task 02. The project demonstrates the implementation of core JavaScript concepts such as DOM manipulation, event handling, input parsing, arithmetic operations, and error handling while providing an attractive and user-friendly interface.
+Smart Calculator is a modern and responsive calculator web application developed as part of the SkillCraft Technology Web Development Internship Task 02. The project demonstrates the implementation of core JavaScript concepts such as DOM manipulation, event handling, input parsing, arithmetic operations, and error handling while providing an attractive and user-friendly interface.
 
 The calculator is designed with a modern glassmorphism-inspired user interface, smooth animations, responsive layout, and keyboard support to enhance user experience. The application performs basic mathematical operations efficiently and delivers accurate results in real time.
 
